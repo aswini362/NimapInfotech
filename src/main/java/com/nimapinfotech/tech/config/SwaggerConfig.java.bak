@@ -22,8 +22,8 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("nimapinfotech API").description("Aswini API reference for developers")
-				.termsOfServiceUrl("http://nimapinfotech.com").license("Aswini License").licenseUrl("nimapinfotech@gmail.com")
+		return new ApiInfoBuilder().title("youCloud API").description("Aswini API reference for developers")
+				.termsOfServiceUrl("http://youCloud.com").license("Aswini License").licenseUrl("youCloud@gmail.com")
 				.version("1.0").build();
 	}
 }
